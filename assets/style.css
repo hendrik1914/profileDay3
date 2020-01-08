@@ -1,0 +1,31 @@
+.tentang-saya {
+    text-align: center; color: dodgerblue;
+}
+
+.carousel-item.active{
+    margin: 0 auto !important;
+}
+
+.carousel-item img {
+    width: 400px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    width: 50%; color: black; 
+}
+#about-me {
+    text-align: center; color: #7a7a7a;
+}
+
+#hubungi-saya {
+    text-align: center; color: tomato;
+}
+
+#logo {
+    text-align: center;
+}
